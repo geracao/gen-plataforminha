@@ -1,2 +1,2 @@
 # gen-plataforminha
-Joguinho de plataforma feito em Unity
+Jogo de Plataforma para desenvolvimento de tecnicas de programacao, artes entre outros
